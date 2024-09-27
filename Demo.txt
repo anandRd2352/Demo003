@@ -1,3 +1,0 @@
-my first line in features
-my second line in features
-3rd line
